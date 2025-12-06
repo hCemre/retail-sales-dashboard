@@ -1,7 +1,8 @@
-🌟 Power BI Sales Performance Dashboard
+# Power BI Sales Performance Dashboard
 
 This project presents an end-to-end Sales Performance Dashboard built in Power BI.
-Its primary purpose is to deliver fast, actionable, and visually intuitive insights that support data-driven decision making across product, customer, and regional performance areas.
+
+🌟Its primary purpose is to deliver fast, actionable, and visually intuitive insights that support data-driven decision making across product, customer, and regional performance areas.
 
 The dashboard brings together core sales metrics, behavioral trends, and time-intelligence calculations into a single analytical experience — providing clear visibility over operational performance, growth opportunities, and business patterns.
 
@@ -73,3 +74,4 @@ These insights help guide strategic planning, product decisions, and resource al
 | **Superstore.xlsx**             | Raw dataset used in the model                 |
 | **README.md**                   | Documentation file                            |
 | **/screenshots**                | Folder containing dashboard and model visuals |
+
